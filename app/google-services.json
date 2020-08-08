@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "991818056131",
+    "firebase_url": "https://nokri-2ff8b.firebaseio.com",
+    "project_id": "nokri-2ff8b",
+    "storage_bucket": "nokri-2ff8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991818056131:android:7f0d8cc8445b52e7",
+        "android_client_info": {
+          "package_name": "com.scriptsbundle.nokri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991818056131-lhgtq9ies7vc5ip9erplt40f3th7r34d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.nokri",
+            "certificate_hash": "7d42a1b9ad42c3eca1b1b83c1a770c55d5fc99b8"
+          }
+        },
+        {
+          "client_id": "991818056131-n84jnq1fdgvbfddrq7bbtuhkbrh5d33r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.nokri",
+            "certificate_hash": "3aefdaf46d28286985845ba7fffba3720bbc0bbf"
+          }
+        },
+        {
+          "client_id": "991818056131-cun19fcein065tqb0sl11jad2ihi70lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.nokri",
+            "certificate_hash": "d1a453fde18d4d1d077e22cccace33d5c7b949bd"
+          }
+        },
+        {
+          "client_id": "991818056131-58ghfqhfh3mg3j42mcf4eir2aoimsmov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scriptsbundle.nokri",
+            "certificate_hash": "04af9c63c7c1c856c1906384babd914c4c1555ba"
+          }
+        },
+        {
+          "client_id": "991818056131-dqttmjvpqkkflfs8te3ah5f0h7nduo55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTInC_MDN6ocHxUeg9n7ENGSCTxPsD7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991818056131-dqttmjvpqkkflfs8te3ah5f0h7nduo55.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991818056131-td7unddqnp5s0qmt9ub7qvjent5a061b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.scriptsbundle.jobZone"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

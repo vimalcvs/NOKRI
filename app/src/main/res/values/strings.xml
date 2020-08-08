@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Nokri</string>
+
+    <!-- Keys -->
+    <string name="facebook_app_id">1883747045016682</string>
+    <string name="fb_login_protocol_scheme">fb1883747045016682</string>
+    <string name="google_maps_API_key">Enter your google_maps_API_key here</string>
+    <string name="google_places_API_key">Enter your google_places_API_key here</string>
+    <string name="google_api_credentials_for_youtube">Enter your google_api_credentials_for_youtube here</string>
+    <string name="linkedin_client_id">Enter your LINKEDIN_CLIENT_ID here</string>
+    <string name="linkedin_client_secret">Enter your linkedin_client_secret key here</string>
+    <!-- Keys -->
+
+    <string name="loading_text">Loading....</string>
+    <string name="singup">Sign up</string>
+    <string name="signin">Sign in</string>
+    <string name="createaccount">Create a new account</string>
+    <string name="LoginYourAccount">Login Your Account</string>
+    <string name="ForogotPassword">ForgotPassword</string>
+
+    <string name="openDrawer">open</string>
+    <string name="closeDrawer">close</string>
+
+    <string name="job_result">100 Result</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">loading</string>
+    <string name="welcome_text">Welcome</string>
+</resources>
